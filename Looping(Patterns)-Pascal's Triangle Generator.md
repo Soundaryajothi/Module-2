@@ -46,7 +46,7 @@ for i in range(1, rows+1):
     print()
 ```
 
-## Sample Output
+## Output
 
 ![438207214-dedc88f3-b6ce-4f01-8a93-87ee3eabe599](https://github.com/user-attachments/assets/8f276fae-bc4a-4859-ae50-33e3507dc395)
 
