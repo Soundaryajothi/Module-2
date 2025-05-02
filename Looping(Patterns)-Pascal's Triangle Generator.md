@@ -28,8 +28,8 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 
 ## 🧪 Program
 ```
-Devolped by :NIRANJANS
-Reg no:212224040221
+Devolped by :SOUNDARYA J
+Reg no:212223220108
 ```
 ```
 rows = int(input())
